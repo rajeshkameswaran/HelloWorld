@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             var c1 = new MyClass();
             Console.WriteLine($"Hello World! {c1.ReturnMessage()}");
-            //Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
